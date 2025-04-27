@@ -1,0 +1,28 @@
+{
+  "login": {
+    "username": "asadsadsad",
+    "password": "123123"
+  },
+  "chooseProduct": [
+    {
+      "category": "Laptops",
+      "product": "2017 Dell 15.6 Inch"
+    },
+    {
+      "category": "Monitors",
+      "product": "Apple monitor 24"
+    }
+  ],
+  "order": {
+    "name": "Ayman",
+    "country": "Egypt",
+    "city": "Cairo",
+    "creditCard": "1234567890123456",
+    "month": "12",
+    "year": "2025"
+  },
+  "assertions": {
+    "welcomeText": "Welcome asadsadsad",
+    "productName": "2017 Dell 15.6 Inch"
+  }
+}

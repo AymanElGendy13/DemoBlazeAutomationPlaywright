@@ -1,0 +1,33 @@
+{
+  "login": {
+    "username": "asadsadsad",
+    "password": "123123"
+  },
+  "contact": {
+    "email": "test@test.com",
+    "name": "Testt",
+    "message": "Test message is here"
+  },
+  "chooseProduct": [
+    {
+      "category": "Laptops",
+      "product": "2017 Dell 15.6 Inch"
+    },
+    {
+      "category": "Laptops",
+      "product": "MacBook Pro"
+    }
+  ],
+  "order": {
+    "name": "Ayman",
+    "country": "Egypt",
+    "city": "Cairo",
+    "creditCard": "1234567890123456",
+    "month": "12",
+    "year": "2025"
+  },
+  "assertions": {
+    "welcomeText": "Welcome asadsadsad",
+    "productName": "MacBook Pro"
+  }
+}
